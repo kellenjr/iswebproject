@@ -1,0 +1,26 @@
+.video{
+    margin-left: 250px;
+    margin-right: 240px;
+}
+.data{
+    margin-left: 75px;
+    margin-right: 75px;
+}
+.headertwo{
+    font-size: larger;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+}
+.header{
+    font-size: large;
+    font-weight: bold;
+    margin: auto;
+
+}
+.indent{
+    font-size: large;
+    font-weight: normal;
+    margin: auto;
+    text-align: right;
+}
